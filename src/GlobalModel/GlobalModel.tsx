@@ -1,4 +1,4 @@
-import { createContext, FC, PropsWithChildren, ProviderProps, useEffect } from "react"
+import { useEffect } from "react"
 import { Model } from "react-better-model"
 
 // export global model instance
